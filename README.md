@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lpruthvi
+- 👋 Hi, I’m Pruthvi Reddy
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
